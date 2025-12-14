@@ -1,47 +1,21 @@
-# Hi, I'm Tanvi Jagtap 👋
+<h2 align="center">Hi, I'm Tanvi 👋</h2>
 
-🎓 3rd Year B.Tech IT Student  
-💻 Aspiring Software / Backend Developer  
-☕ Java | Spring Boot | REST APIs | MySQL  
-📍 India  
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
----
-
-I am a passionate backend development learner who enjoys turning ideas into real-world applications using **Java and Spring Boot**.  
-I like working on practical projects, understanding how systems work behind the scenes, and improving my problem-solving skills.
-
-Currently, I am strengthening my **Data Structures & Algorithms (Java)** 
-
----
-
-## 🛠️ Tech Stack
-
-**Backend:**  
-- Java  
-- Spring Boot  
-- Spring MVC  
-- JPA / Hibernate  
-- REST APIs  
-
-**Databases:**  
-- MySQL  
-- MongoDB  
----
-
-## 🤝 Open To
-
-- Software Developer Internships  
-- Backend / Java Developer Roles  
-- Collaborative Projects  
-- Learning & Growth Opportunities  
+<p align="center">
+  🎓 B.Tech IT (3rd Year) <br>
+  💻 Aspiring Backend / Software Developer <br>
+  🚀 Passionate about building real-world applications
+</p>
 
 ---
 
-## 📫 Connect With Me
+🌱 Currently learning **DSA (Java)** and preparing for placements  
+🧠 Interested in **Backend Development, APIs & Problem Solving**  
+📌 Open to **Internships & Entry-Level Backend Roles**
 
-- LinkedIn: *https://www.linkedin.com/in/tanvii-jagtap/*  
-- GitHub: You're already here 😄  
-
----
-
-⭐ *“Learning consistently, building projects, and growing one step at a time.”*
+🔗 **LinkedIn:** https://www.linkedin.com/in/tanvii-jagtap/
