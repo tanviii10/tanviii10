@@ -7,8 +7,6 @@
 
 ---
 
-## 🚀 About Me
-
 I am a passionate backend development learner who enjoys turning ideas into real-world applications using **Java and Spring Boot**.  
 I like working on practical projects, understanding how systems work behind the scenes, and improving my problem-solving skills.
 
@@ -41,7 +39,7 @@ Currently, I am strengthening my **Data Structures & Algorithms (Java)**
 
 ## 📫 Connect With Me
 
-- LinkedIn: *(https://www.linkedin.com/in/tanvii-jagtap/)*  
+- LinkedIn: *https://www.linkedin.com/in/tanvii-jagtap/*  
 - GitHub: You're already here 😄  
 
 ---
