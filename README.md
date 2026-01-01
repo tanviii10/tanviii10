@@ -1,21 +1,39 @@
-<h2 align="center">Hi, I'm Tanvi 👋</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+<h2 align="center">Hi 👋, I'm Tanvi Jagtap</h2>
+<h4 align="center">Aspiring Backend / Software Developer</h4>
 
 <p align="center">
   🎓 B.Tech IT (3rd Year) <br>
-  💻 Aspiring Backend / Software Developer <br>
-  🚀 Passionate about building real-world applications
+  ☕ Java | Spring Boot | Backend Development <br>
+  🌱 Learning DSA (Java) & preparing for placements
 </p>
 
 ---
 
-🌱 Currently learning **DSA (Java)** and preparing for placements  
-🧠 Interested in **Backend Development, APIs & Problem Solving**  
-📌 Open to **Internships & Entry-Level Backend Roles**
+### 🔗 Connect with me
+<p align="center">
+  <a href="https://www.linkedin.com/in/tanvii-jagtap/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/tanviii10" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/tanvii-jagtap/
+---
+
+### 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,html,css,js,bootstrap,git,github,postman" />
+</p>
+
+---
+
+### 📌 Focus Areas
+- Backend Development (Java & Spring Boot)
+- REST APIs & Database Integration
+- Data Structures & Algorithms (Java)
+- Real-world project building
+
+---
+
+⭐ *Learning consistently. Building projects. Growing every day.*
