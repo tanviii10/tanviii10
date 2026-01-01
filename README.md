@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Tanvi Jagtap</h2>
-<h4 align="center">Aspiring Backend / Software Developer</h4>
+<h4 align="center">Aspiring Software Developer</h4>
 
 ---
 
