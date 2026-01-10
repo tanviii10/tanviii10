@@ -5,7 +5,6 @@
   🎓 B.Tech IT (3rd Year) <br>
   🌱 Learning DSA (Java) & preparing for placements
 </p>
----
 
 ### 🔗 Connect with me
 
