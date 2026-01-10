@@ -1,9 +1,10 @@
 <h2 align="center">Hi 👋, I'm Tanvi Jagtap</h2>
-<h4 >Aspiring Software Developer</h4>
-🎓 **B.Tech IT (3rd Year)**  
-💻 **Aspiring Backend / Software Developer**   
-🌱 Currently learning **DSA (Java)** and preparing for placements
+<h4 >Aspiring Backend / Software Developer</h4>
 
+<p >
+  🎓 B.Tech IT (3rd Year) <br>
+  🌱 Learning DSA (Java) & preparing for placements
+</p>
 ---
 
 ### 🔗 Connect with me
