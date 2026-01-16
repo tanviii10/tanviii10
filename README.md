@@ -19,7 +19,7 @@
 
 ### 🛠️ Languages & Tools
 
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,tomcat,mysql,mongodb,html,css,js,bootstrap,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,mongodb,html,css,js,bootstrap,git,github,postman" />
 
 ---
 
